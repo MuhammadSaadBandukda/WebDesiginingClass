@@ -8,7 +8,7 @@ You have **two assignments**. Each one is based on a screenshot.
 
 ---
 
-## 📝 Assignment 1 (Screenshot: ss-1.png)
+## 📝 Assignment 1
 
 ![Assignment 1](ss-1.png)
 
@@ -25,7 +25,7 @@ You have **two assignments**. Each one is based on a screenshot.
 
 ---
 
-## 📝 Assignment 2 (Screenshot: ss-2.png)
+## 📝 Assignment 2
 
 ![Assignment 2](ss-2.png)
 
